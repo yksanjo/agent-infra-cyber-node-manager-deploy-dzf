@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-cyber-node-manager-deploy-dzf",
+  "version": "1.0.0",
+  "description": "Advanced analytics and monitoring platform",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "cyber-node-manager-deploy-dzf"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-cyber-node-manager-deploy-dzf.git"
+  }
+}
